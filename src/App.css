@@ -1,0 +1,18 @@
+.adduserbox
+{
+  border: 2px solid rgb(255, 255, 255,0.4);
+  padding:20px;
+  
+}
+
+.editbox {
+  padding: 20px;
+  border: 2px solid  rgb(255, 255, 255,0.4);
+  
+}
+  
+body {
+  background-image: url('./images/mern.webp');
+
+}
+  
