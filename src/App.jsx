@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import { useState } from 'react'
 
 import './App.css'
@@ -74,9 +75,8 @@ setediting(false)
         </button>
             <div className="collapse navbar-collapse" id="navbarCollapse">
                 <div className="navbar-nav">
-                    <a href="#" className="nav-item nav-link active">Home</a>
-                  <a href="#" className="nav-item nav-link">Profile</a>
-                    <a href="#" className="nav-item nav-link">Messages</a>
+                    <a href="#"  className="nav-item nav-link active">Home</a>
+                  
 
                 </div>
 
